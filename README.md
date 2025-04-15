@@ -9,7 +9,7 @@ A Chrome Extension for summarizing the user's prompts.
 
 ## Screenshot 實際範例
 
-<img width="1471" alt="截圖 2025-04-16 01 04 55" src="https://github.com/user-attachments/assets/15eb0cef-d4a3-464a-87a3-a4732edda961" />
+<img width="1041" alt="截圖 2025-04-16 01 33 08" src="https://github.com/user-attachments/assets/d5203a01-0cc8-475f-a152-8e37b59f5ce7" />
 
 ---
 
