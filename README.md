@@ -7,6 +7,12 @@ A Chrome Extension for summarizing the user's prompts.
 
 ---
 
+## Screenshot 實際範例
+
+<img width="1471" alt="截圖 2025-04-16 01 04 55" src="https://github.com/user-attachments/assets/15eb0cef-d4a3-464a-87a3-a4732edda961" />
+
+---
+
 ## 🔍 Features 功能特色
 
 - ✅ Show all user prompts in a floating panel
