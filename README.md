@@ -1,15 +1,14 @@
 # chatgpt-prompt-lens
-A Chrome Extension for summarizing the user's prompts.
 
-🧠 A Chrome Extension for summarizing and navigating your ChatGPT prompts.
+- 😎 A Chrome Extension for summarizing and navigating your ChatGPT prompts.
 
-🧠 一款整理與快速導覽你在 ChatGPT 提問內容的 Chrome 擴充功能。
+- 😎 一款整理與快速導覽你在 ChatGPT 提問內容的 Chrome 擴充功能。
 
 ---
 
 ## Screenshot 實際範例
 
-<img width="1471" alt="截圖 2025-04-16 01 04 55" src="https://github.com/user-attachments/assets/15eb0cef-d4a3-464a-87a3-a4732edda961" />
+<img width="1041" alt="截圖 2025-04-16 01 33 08" src="https://github.com/user-attachments/assets/d5203a01-0cc8-475f-a152-8e37b59f5ce7" />
 
 ---
 
@@ -29,22 +28,25 @@ A Chrome Extension for summarizing the user's prompts.
 
 ## 🛠️ How to Use 使用方式
 
-1. Clone or download this repository  
-   複製或下載本專案資料夾
+1. Download this repository
+   下載本專案
+   
+3. Unzip the zip file to see the extension folder.
+   解壓縮 zip 檔案，還原成資料夾格式
 
-2. Go to `chrome://extensions/` in your Chrome browser  
+5. Go to `chrome://extensions/` in your Chrome browser  
    在 Chrome 輸入 `chrome://extensions/`
 
-3. Enable **Developer Mode**  
+6. Enable **Developer Mode**  
    開啟右上角的「開發人員模式」
 
-4. Click “Load unpacked” and select the folder  
+7. Click “Load unpacked” and select the folder  
    點選「載入未封裝項目」，選取本專案資料夾
 
-5. Navigate to [https://chat.openai.com](https://chat.openai.com)  
+8. Navigate to [https://chat.openai.com](https://chat.openai.com)  
    開啟 ChatGPT 的網站
 
-6. Click the extension icon → prompt summary panel will toggle  
+9. Click the extension icon → prompt summary panel will toggle  
    點擴充圖示即可開關「提問清單」浮動框
 
 ---
