@@ -28,22 +28,25 @@
 
 ## 🛠️ How to Use 使用方式
 
-1. Clone or download this repository  
-   複製或下載本專案資料夾
+1. Download this repository
+   下載本專案
+   
+3. Unzip the zip file to see the extension folder.
+   解壓縮 zip 檔案，還原成資料夾格式
 
-2. Go to `chrome://extensions/` in your Chrome browser  
+5. Go to `chrome://extensions/` in your Chrome browser  
    在 Chrome 輸入 `chrome://extensions/`
 
-3. Enable **Developer Mode**  
+6. Enable **Developer Mode**  
    開啟右上角的「開發人員模式」
 
-4. Click “Load unpacked” and select the folder  
+7. Click “Load unpacked” and select the folder  
    點選「載入未封裝項目」，選取本專案資料夾
 
-5. Navigate to [https://chat.openai.com](https://chat.openai.com)  
+8. Navigate to [https://chat.openai.com](https://chat.openai.com)  
    開啟 ChatGPT 的網站
 
-6. Click the extension icon → prompt summary panel will toggle  
+9. Click the extension icon → prompt summary panel will toggle  
    點擴充圖示即可開關「提問清單」浮動框
 
 ---
