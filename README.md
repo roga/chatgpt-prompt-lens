@@ -1,9 +1,8 @@
 # chatgpt-prompt-lens
-A Chrome Extension for summarizing the user's prompts.
 
-🧠 A Chrome Extension for summarizing and navigating your ChatGPT prompts.
+- 😎 A Chrome Extension for summarizing and navigating your ChatGPT prompts.
 
-🧠 一款整理與快速導覽你在 ChatGPT 提問內容的 Chrome 擴充功能。
+- 😎 一款整理與快速導覽你在 ChatGPT 提問內容的 Chrome 擴充功能。
 
 ---
 
