@@ -14,6 +14,7 @@ chrome.action.onClicked.addListener((tab) => {
                         container.setAttribute('id', id);
                         let text = el.innerText.trim();
                         if (text.length > 0) {
+                            text = text.length > 128 ? text.slice(0, 128) + '...' : text;
                             text = text.replace(/</g, "&lt;").replace(/>/g, "&gt;");
                             prompts.push({ text, id });
                         }
@@ -73,7 +74,6 @@ chrome.action.onClicked.addListener((tab) => {
                 document.body.appendChild(summaryBox);
             };
 
-            // 初始化浮動框或切換聊天時重建
             const observer = new MutationObserver(() => {
                 if (document.getElementById('user-prompts-summary')) {
                     generatePromptSummary();
