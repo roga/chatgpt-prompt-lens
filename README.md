@@ -18,11 +18,15 @@
 - ✅ Click on each prompt to scroll to the corresponding section
 - ✅ Toggle the panel by clicking the extension icon
 - ✅ Supports clean HTML rendering (handles < > characters safely)
+- ✅ Supports dark mode and light mode
+- ✅ Draggable window
 
 - ✅ 所有使用者提問會整理成右側浮動面板
 - ✅ 點擊每則提問可跳轉至對應區塊
 - ✅ 點一下圖示即可開關面板（Toggle 功能）
 - ✅ 支援安全的 HTML 顯示（會處理 < > 等符號）
+- ✅ 支援白色以及暗色系統主題
+- ✅ 可以拖拉的視窗
 
 ---
 
